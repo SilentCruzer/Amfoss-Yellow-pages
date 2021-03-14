@@ -5,7 +5,7 @@ from phonebook.models import Detail
 class DetailType(DjangoObjectType):
     class Meta:
         model = Detail
-        fields = ("id", "name", "field")
+        fields = ("id", "name", "field","email","github","languages")
 
 class Query(graphene.ObjectType):
     all_details = graphene.List(DetailType)
