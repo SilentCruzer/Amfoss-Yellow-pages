@@ -1,0 +1,10 @@
+.homeContainer{
+    display: flex;
+}
+
+#landing-info{
+    margin-left: 350px;
+    font-size: 30px;
+    width: 100%;
+    word-wrap: break-word;
+}

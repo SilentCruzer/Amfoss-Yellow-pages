@@ -1,0 +1,16 @@
+.leftContainer {
+    font-size: 12px;
+    overflow-wrap: break-word;
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    background-color: #263238;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top: 60px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
