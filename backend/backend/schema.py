@@ -5,12 +5,12 @@ from phonebook.models import Detail, SignIn
 class DetailType(DjangoObjectType):
     class Meta:
         model = Detail
-        fields = ("id", "name", "field","email","github","languages")   
+        fields = ("name", "field","email","github","languages")   
 
 class LoginType(DjangoObjectType):
     class Meta:
         model= SignIn
-        fields = ("id","username","password")
+        fields = ("username","password")
 
 class LoginInput(graphene.InputObjectType):
     username = graphene.String()
