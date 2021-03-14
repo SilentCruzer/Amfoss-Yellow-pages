@@ -5,10 +5,14 @@
     z-index: 0;
     top: 0;
     left: 0;
-    background-color: #263238;
+    background-color: black;
     overflow-x: hidden;
     padding-top: 20px;
     margin-top: 60px;
     border: 2px solid white;
     border-radius: 10px;
+}
+
+p{
+    margin-left: 15px;
 }

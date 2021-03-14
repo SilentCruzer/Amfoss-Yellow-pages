@@ -20,7 +20,7 @@ function Header() {
                 </Link>
                 <Link to='/amfoss-website'>
                 <div className='button'>
-                    <span className='buttonLineOne'>Info</span>
+                    <span className='buttonLineOne'>Amfoss Website</span>
                 </div>
                 </Link>
 

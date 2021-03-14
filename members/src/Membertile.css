@@ -2,10 +2,11 @@
     margin-top: 5px;
     border-radius: 50%;
     width: 50px;
+    border: 2px solid #ef476f;
 }
 
 .member{
-    border: 2px solid white;
+    border: 2px solid #ef476f;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
@@ -15,4 +16,8 @@
 .Profile{
     display: flex;
     justify-content: space-around;
+}
+
+p{
+    color:#f1faee
 }

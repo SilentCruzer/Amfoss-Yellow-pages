@@ -3,3 +3,12 @@
     font-size: 28px; /* Increased text to enable scrolling */
     padding: 0px 10px;
 }
+
+.label{
+    color: #2a9d8f;
+}
+
+.text{
+    color: #480ca8;
+}
+

@@ -5,6 +5,7 @@ import Membertile from './Membertile';
 function Sidebar() {
     return (
         <div className="leftContainer">
+            <p>Members:</p>
                     <Membertile
                     name='Pranavdhar'
                     image='https://avatars.githubusercontent.com/u/73348574?s=460&u=b53b92d1b2e3f3a270fc301ee11d3a5e963910d2&v=4'
