@@ -1,0 +1,329 @@
+[
+    {
+        "model":"phonebook.detail",
+        "pk":1,
+        "fields":{
+            "name":"Abhijit Ramesh",
+            "field":"Deep Learning|Android",
+            "email":"abhijitramesh2k@gmail.com",
+            "github":"https://github.com/abhijitramesh ",
+            "languages":"Python,Kotlin"
+
+
+
+        }
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":2,
+        "fields":{
+            "name":"Akhil KG",
+            "field":"KDE|Season of KDE|GSoC|Startups|SaaS|Making money|Design|Copywriting|Marketing|Sales",
+            "email":"akhilam512@gmail.com",
+            "github":"https://github.com/akhilam512",
+            "languages":"C|C++|Python"
+        }
+
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":3,
+        "fields":{
+            "name":"Akshay V",
+            "field":"Web backend development",
+            "email":"vvaakshay@gmail.com",
+            "github":"https://github.com/akshayaky",
+            "languages":"C++|C|Python|Go|Java"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":4,
+        "fields":{
+            "name":"Amruth Kumar",
+            "email":"amruth8555@gmail.com"
+
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":5,
+        "fields":{
+            "name":"K N Ananthanandanan",
+            "field":"Graphql|Django| Networks| React| Linux",
+            "email":"ananthanandanan@gmail.com",
+            "github":"https://github.com/ananthanandanan",
+            "languages":"Python| C | C++ | Java | JS "
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":6,
+        "fields":{
+            "name":"Ashwin R",
+            "field":"Android|Linux|Flutter|Kotlin|zsh|Firebase",
+            "email":"ashwinkey04@gmail.com",
+            "github":"https://github.com/ashwinkey04",
+            "languages":"C|C++|Java|PostgreSQL|Dart"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":7,
+        "fields":{
+            "name":"Athira Nair",
+            "field":"Open-Source|Android|Blockchain ",
+            "email":"athinair2000@gmail.com",
+            "github":"https://github.com/athiranair2000",
+            "languages":"Java|C++|JSS|Solidity "
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":8,
+        "fields":{
+            "name":"Ajay Prabhakar",
+            "field":"UI Design|Flutter|Android|Git|Open-source",
+            "email":"ajayprabhakar369@gmail.com",
+            "github":"https://github.com/chromicle",
+            "languages":"Java|Kotlin|Dart|Python|C|C++"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":9,
+        "fields":{
+            "name":"Govind Goel",
+            "email":"govindgoel82@gmail.com",
+            "github":"https://github.com/govindgoel"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":10,
+        "fields":{
+            "name":"Harshith Pabbati",
+            "field":"Python|JSS|C|C++|SQL",
+            "email":"pabbatiharshith@gmail.com",
+            "github":"https://github.com/harshithpabbati",
+            "languages":"Python|JSS|C|C++|SQL"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":11,
+        "fields":{
+            "name":"Akshay Praveen Nair",
+            "field":"Open-Source|Git|Django|Flask|KDE|UI-Design|Audio-Processing|Linux|Qt",
+            "email":"akshaypraveennair11@gmail.com",
+            "github":"https://github.com/iammarco11",
+            "languages":"Python|C++|QML"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":12,
+        "fields":{
+            "name":"Mainak Deb",
+            "field":"mainakmayukh2000@gmail.com",
+            "github":"https://github.com/Mainakdeb"
+
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":13,
+        "fields":{
+            "name":"Mayukh Deb",
+            "field":"Deep-Learning|Image-Processing|Data-Science|OOP|docker for deep-learning",
+            "email":"mayukhmainak2000@gmail.com",
+            "github":"https://github.com/mayukhdeb",
+            "languages":"Python|C|C++|JS"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":14,
+        "fields":{
+            "name":"Nehal N",
+            "field":"OpenCV|ROS|Web Development|OSS|Deep Learning|Linux|Django",
+            "email":"nehalnevle@gmail.com",
+            "github":"https://github.com/Blackcipher101",
+            "languages":"JS|CSS3|C++|Python|C|SQ"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":15,
+        "fields":{
+            "name":"Puneeth Chanda",
+            "email":"puneethchanda2001@gmail.com",
+            "github":"https://github.com/puneeth2001"
+
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":16,
+        "fields":{
+            "name":"Rishab Mudliar",
+            "field":"Android|pandas|numpy|matplotlib",
+            "email":"rishabmudliar@gmail.com",
+            "github":"https://github.com/lazyCodes7",
+            "languages":"C++ for IoT|Python, "
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":17,
+        "fields":{
+            "name":"Sashmita Raghav",
+            "email":"sashmitaraghav2505@gmail.com"
+
+
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":18,
+        "fields":{
+            "name":"Sevagen",
+            "field":"Web Development|GNOME|Git|React|Django|GraphQL",
+            "email":"sevagenv@gmail.com",
+            "github":"https://github.com/VSevagen",
+            "languages":"JS|C++|Python"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":19,
+        "fields":{
+            "name":"Shashank Priyadarshini",
+            "field":"Android|Machine Learning|Open-Source",
+            "email":"captain.shank75@gmail.com",
+            "github":"https://github.com/robustTechie",
+            "languages":"Python"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":20,
+        "fields":{
+            "name":"Shivangi Singh",
+            "field":"Android Development",
+            "email":"shivangisingh1702@gmail.com",
+            "github":"https://github.com/ShivangiSingh17"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":21,
+        "fields":{
+            "name":"Sai Siddharth Cilamkoti",
+            "email":"siddharthcilamkoti@gmail.com",
+            "github":"https://github.com/siddharthc30"
+
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":22,
+        "fields":{
+            "name":"Swathi Kasikala",
+            "field":"Ruby-on-Rails|Web Development",
+            "email":"swathi.kasikala@gmail.com",
+            "languages":"Python|Ruby"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":23,
+        "fields":{
+            "name":"Vishwaak Chandran",
+            "field":"Deep-Learnng|RL|Flutter",
+            "email":"chandranvishwaak@gmail.com",
+            "github":"https://github.com/Vishwaak",
+            "languages":"Python"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":24,
+        "fields":{
+            "name":"Yash Khare",
+            "field":"Open-Source|Computer-Vision|Machine Learning|Android|Flutter",
+            "email":"yashsja@gmail.com",
+            "github":"https://github.com/yashk2000",
+            "languages":"Flutter"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":25,
+        "fields":{
+            "name":"Hrishikesh",
+            "field":"Unreal Engine",
+            "email":"hrishikeshpramodnair@gmail.com",
+            "github":"https://github.com/HrishikeshP-01",
+            "languages":"C++"
+        }
+    
+    }
+    ,
+    {
+        "model":"phonebook.detail",
+        "pk":26,
+        "fields":{
+            "name":"Sanjay",
+            "email":"sanjayipscoc@gmail.com"
+        }
+    
+    }
+   
+]
