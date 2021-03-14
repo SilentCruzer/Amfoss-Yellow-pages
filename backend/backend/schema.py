@@ -5,7 +5,7 @@ from phonebook.models import Detail, SignIn
 class DetailType(DjangoObjectType):
     class Meta:
         model = Detail
-        fields = ("name", "field","email","github","languages")   
+        fields = ("name", "field","email","github","languages","github_username")   
 
 class LoginType(DjangoObjectType):
     class Meta:
